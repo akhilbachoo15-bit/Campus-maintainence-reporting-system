@@ -1,13 +1,4 @@
-Campus Maintenance Reporting System (IP302 Assignment - Option B)
-====================================================================
-
-SELECTED OPTION
-Option B: Campus Maintenance Reporting System
-
-GROUP MEMBERS
-- Akhil Bachoo - 2024030036
-Devantha Naicker - 2024030821
-J.R.Khilawan - 2024030876
+Campus Maintenance Reporting System
 
 TECHNOLOGY
 - Java 17+ (built with JDK 21 on the developer machine, still Java 17
